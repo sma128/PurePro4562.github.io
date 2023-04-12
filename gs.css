@@ -17,7 +17,7 @@ h1 {
 
 img {
   border: double 2px transparent;
-  border-radius: 50px;
+  border-radius: 25px;
   background-image: linear-gradient(black, black), 
                     linear-gradient(to right, aqua, lime);
   background-origin: border-box;
