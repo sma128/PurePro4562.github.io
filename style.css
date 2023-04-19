@@ -38,7 +38,6 @@ background: linear-gradient(90deg, rgba(0,255,48,1) 0%, rgba(0,242,255,1) 100%);
 .topnav a:hover {
   background-image: linear-gradient(90deg, #00ab25, #00cfd6);
   color: rgb(255, 255, 255);
-  font-size: 20px;
 }
 
 .topnav a {
@@ -88,7 +87,7 @@ background: linear-gradient(90deg, rgba(0,255,48,1) 0%, rgba(0,242,255,1) 100%);
 
 .button:hover {
  color: white;
-  background-image: linear-gradient(90deg, rgb(0, 234, 255) 0%, rgb(34, 0, 255) 100%);
+  background-image: linear-gradient(90deg, #00ab25, #00cfd6);
 font-size: 28px;
   
 .container {
